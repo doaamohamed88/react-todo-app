@@ -24,7 +24,6 @@ This project is part of my React learning journey 🚀.
 
 ## 📸 Screenshot  
 ![App Screenshot](screenshot.png)  
-*(Take a screenshot of your app, save it in the project folder as `screenshot.png` and it will appear here automatically)*  
 
 ---
 
